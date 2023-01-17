@@ -2,12 +2,12 @@
 Attendance Management System based on Face Recognition using Python and OpenCv
 <h2>Code Requirements</h2>
 
-Opencv(pip install opencv-python)
-Tkinter(Available in python)
-PIL (pip install Pillow)
-Pandas(pip install pandas)
-What steps you have to follow??
-Download my Repository
+.🔲Opencv(pip install opencv-python)
+..🔲Tkinter(Available in python)
+..🔲PIL (pip install Pillow)
+.🔲.Pandas(pip install pandas)
+.🔲.What steps you have to follow??
+.🔲Download my Repository
 Create a TrainingImage folder in a project.
 Open a AMS_Run.py and change the all paths with your system path
 Run AMS_Run.py.
