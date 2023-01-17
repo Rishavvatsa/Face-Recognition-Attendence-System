@@ -32,7 +32,7 @@ Basic UI
 ![Screenshot_20230117_184106](https://user-images.githubusercontent.com/95865069/212910010-e2271352-fb69-4fdf-806a-8ac28f8a53e3.png)
 # Attendence Section
 
-![image](https://user-images.githubusercontent.com/95865069/212910099-3b03c033-14bd-405e-982a-ab699b62dfc7.png)
+![image](https://user-images.githubusercontent.com/95865069/212915883-a4bee010-8339-428b-9fbe-3cd4df096f70.png)
  When it recognise me it will automatically or manually fill the atttendence with date,time and subject
 
 
