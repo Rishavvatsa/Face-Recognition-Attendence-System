@@ -23,6 +23,13 @@ Manually Fill Attendance Button in UI is for fill a manually attendance (without
 Screenshots
 Basic UI
 ![image](https://user-images.githubusercontent.com/95865069/212906822-3e0387e1-a351-488e-9235-c72e8db794eb.png)
+![Screenshot_20230117_184031](https://user-images.githubusercontent.com/95865069/212909948-db61e2d5-75c3-41f0-ab50-bfcba6caad84.png)
+![Screenshot_20230117_184046](https://user-images.githubusercontent.com/95865069/212909989-9908d511-495f-4fcc-aa59-b9c28a24e8be.png)
+<h3>=========Face Recognition Section========</h3>
+![Screenshot_20230117_184106](https://user-images.githubusercontent.com/95865069/212910010-e2271352-fb69-4fdf-806a-8ac28f8a53e3.png)
+<h3> =======Attendence Section===========</h3>
+![image](https://user-images.githubusercontent.com/95865069/212910099-3b03c033-14bd-405e-982a-ab699b62dfc7.png)
+
 
 
 
