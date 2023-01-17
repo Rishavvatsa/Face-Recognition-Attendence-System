@@ -36,8 +36,8 @@ Basic UI
  When it recognise me it will automatically or manually fill the atttendence with date,time and subject
 # Notes
 
-<h4>It will require high processing power(I have 8 GB RAM) </br></h4>
-Noisy image can reduce the accuracy, so quality of images should be good.
+🔲<h4>It will require high processing power(I have 8 GB RAM) </br></h4>
+🔲Noisy image can reduce the accuracy, so quality of images should be good.
 
 
 
