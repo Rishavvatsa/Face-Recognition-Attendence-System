@@ -23,20 +23,18 @@
 Basic UI
 # Login Section
 ![image](https://user-images.githubusercontent.com/95865069/212906822-3e0387e1-a351-488e-9235-c72e8db794eb.png)
+# Main Section
 ![Screenshot_20230117_184031](https://user-images.githubusercontent.com/95865069/212909948-db61e2d5-75c3-41f0-ab50-bfcba6caad84.png)
+# Student Management Section
 ![Screenshot_20230117_184046](https://user-images.githubusercontent.com/95865069/212909989-9908d511-495f-4fcc-aa59-b9c28a24e8be.png)
+# Face Recognition Section
 
 ![Screenshot_20230117_184106](https://user-images.githubusercontent.com/95865069/212910010-e2271352-fb69-4fdf-806a-8ac28f8a53e3.png)
+# Attendence Section
 
 ![image](https://user-images.githubusercontent.com/95865069/212910099-3b03c033-14bd-405e-982a-ab699b62dfc7.png)
+ When it recognise me it will automatically or manually fill the atttendence with date,time and subject
 
 
 
 
-When it Recognises me
-
-
-While filling automatic attendance
-
-
-Manually attendance filling UI
